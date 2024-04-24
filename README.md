@@ -10,11 +10,11 @@ code for 《Mind the Gap: Mutil-Level Unsupervised Domain Adaptation for Cross-s
 
 **Houtson 18**
 
-<img src="images/Pavia.gif" alt="Pavia" style="zoom: 50%;" />
+<img src="images/Pavia.gif" alt="Pavia" style="zoom: 30%;" />
 
 **Pavia City**
 
-<img src="images/SH2HZ.gif" alt="SH2HZ" style="zoom: 50%;" />
+<img src="images/SH2HZ.gif" alt="SH2HZ" style="zoom: 30%;" />
 
 **Hangzhou**
 
